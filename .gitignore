@@ -1,8 +1,2 @@
-.idea/
 .DS_Store
-__pycache__/
-*.py[cod]
-.venv/
-venv/
-.ipynb_checkpoints/
-.env
+.idea/
